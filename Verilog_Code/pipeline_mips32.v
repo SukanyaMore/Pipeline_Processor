@@ -173,5 +173,5 @@ case(WBop)
 3'b000: REG[IR4[20:16]] <= MEM_WB_LMD; //rt
 endcase
 end
-endmodule
+
 
